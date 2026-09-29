@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Latency Guarantee](https://img.shields.io/badge/Latency_Budget-<1.0ms-brightgreen.svg)](#empirical-benchmarks)
+[![Latency Budget](https://img.shields.io/badge/Latency_Budget-<1.0ms-brightgreen.svg)](#empirical-benchmarks)
 [![Architecture](https://img.shields.io/badge/Security-Fail--Closed_Hardware--Isolated-red.svg)](#architectural-overview)
 
 This repository provides a reference verification engine and simulation harness for the **Hardware-Isolated Runtime Audit Architecture for Autonomous Multi-Agent Systems**. 
