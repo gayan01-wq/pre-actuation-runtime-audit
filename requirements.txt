@@ -1,0 +1,9 @@
+# Pre-Actuation Runtime Invariant Audit Reference Engine
+# Python >= 3.10 required
+# Core implementation utilizes the Python Standard Library only (zero external runtime dependencies).
+
+# Optional dependencies for extended statistical distribution analysis and testing:
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pytest>=7.4.0
